@@ -5,7 +5,7 @@ Example:
 ```
 "ChatAliases"
 {
-	".ready"		"sm_ready"
-   	".tac"      "sm_tactical"
+	".ready"	"sm_ready"
+   	".tac"		"sm_tactical"
 }
 ```
