@@ -6,6 +6,6 @@ Example:
 "ChatAliases"
 {
 	".ready"		"sm_ready"
-  ".tac"      "sm_tactical"
+   	".tac"      "sm_tactical"
 }
 ```
